@@ -86,13 +86,13 @@ Contains 2,500+ entries with checks for:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/moaahil1110/streaming-platform-analysis.git
+git clone https://github.com/moaahil1110/SDS-Datathon-Streaming-Platform-Analysis.git
 ```
 
 ### 2. Run It on Jupyter Notebook
   **a) In the Jupyter interface, click on:**
 ```bash
-streaming-platform-analysis.ipynb
+Streaming-Platform-Analysis.ipynb
 ```
   **b) Run all cells sequentially:**
   
