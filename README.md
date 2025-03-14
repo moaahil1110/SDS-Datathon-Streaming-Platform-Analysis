@@ -12,7 +12,7 @@ An analytical project exploring TV show trends across streaming platforms, provi
 4. [Technical Stack](#technical-stack)
 5. [Getting Started](#getting-started)
 6. [Sample Findings](#sample-findings)
-7. [Contributors](#contributors)
+7. [Contributors](#Contributors)
 
 
 ## Project Overview
