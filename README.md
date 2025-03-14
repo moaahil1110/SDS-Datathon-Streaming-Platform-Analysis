@@ -84,16 +84,11 @@ Contains 2,500+ entries with checks for:
 - Significant rating differences between platforms (p < 0.05)
 
 **Contributors:**
-<a href="https://github.com/moaahil1110"> moaahil1110</a>
 
-```
-https://github.com/Shehzaad-khan
-```
+1. <a href="https://github.com/moaahil1110"> moaahil1110</a>
 
-```
-https://github.com/MohammedAffanKhan779
-```
+2. <a href="https://github.com/Shehzaad-khan"> Shehzaad-khan</a>
 
-```
-https://github.com/mohdmirpes
-```
+3. <a href="https://github.com/MohammedAffanKhan779"> MohammedAffanKhan779</a>
+
+4. <a href="https://github.com/mohdmirpes"> mohdmirpes</a>
