@@ -5,6 +5,16 @@
 
 An analytical project exploring TV show trends across streaming platforms, providing insights for content strategy and viewer engagement.
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Dataset Description](#dataset-description)
+3. [Key Analyses](#key-analyses)
+4. [Technical Stack](#technical-stack)
+5. [Getting Started](#getting-started)
+6. [Sample Findings](#sample-findings)
+7. [Contributors](#contributors)
+
+
 ## Project Overview
 This project analyzes TV show distribution across major streaming platforms (Netflix, Hulu, Prime Video, Disney+) to identify:
 - Genre popularity trends
