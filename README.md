@@ -65,16 +65,25 @@ Contains 2,500+ entries with checks for:
 **Tools:**
 - Jupyter Notebook
 - Python 3.8+
-- GitHub Version Control
 
 ## 🚀 Getting Started
 ### Prerequisites
 - Python 3.8+
 - Jupyter Notebook
 
-### Installation
+### Installation:
 
-
+### 1. Clone Repository
+```bash
+git clone https://github.com/moaahil1110/streaming-platform-analysis.git
+```
+### 2. Run It on Jupyter Notebook
+  **a) In the Jupyter interface, click on:**
+    ```bash
+      streaming-platform-analysis.ipynb
+    ```
+  **b) Run all cells sequentially:**
+  **c) View results inline with code**
 
 
 ## Sample Findings:
