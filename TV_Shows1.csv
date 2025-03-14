@@ -1,0 +1,512 @@
+Unnamed: 0,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+
+0,Breaking Bad,2008,18+,9.5,96%,1,0,0,0
+1,Stranger Things,2016,16+,8.8,93%,1,0,0,0
+2,Money Heist,2017,18+,8.4,91%,1,0,0,0
+3,Sherlock,2010,16+,9.1,78%,1,0,0,0
+4,Better Call Saul,2015,18+,8.7,97%,1,0,0,0
+5,The Office,2005,16+,8.9,81%,1,0,0,0
+6,Black Mirror,2011,18+,8.8,83%,1,0,0,0
+7,Supernatural,2005,16+,8.4,93%,1,0,0,0
+8,Peaky Blinders,2013,18+,8.8,92%,1,0,0,0
+9,Avatar: The Last Airbender,2005,7+,9.2,,1,0,0,0
+10,The Walking Dead,2010,18+,8.2,81%,1,0,0,0
+11,Dark,2017,16+,8.7,94%,1,0,0,0
+12,Ozark,2017,18+,8.4,81%,1,0,0,0
+13,Attack on Titan,2013,16+,8.8,94%,1,1,0,0
+14,Narcos,2015,18+,8.8,89%,1,0,0,0
+15,Fullmetal Alchemist: Brotherhood,2009,18+,9.1,100%,1,1,0,0
+16,Community,2009,7+,8.5,88%,1,1,0,0
+17,Mindhunter,2017,18+,8.6,96%,1,0,0,0
+18,Parks and Recreation,2009,16+,8.6,93%,1,1,1,0
+19,Dexter,2006,18+,8.6,72%,1,0,0,0
+20,Marvel's Daredevil,2015,18+,8.6,92%,1,0,0,0
+21,The Witcher,2019,18+,8.3,67%,1,0,0,0
+22,Twin Peaks,1990,18+,8.8,89%,1,1,0,0
+23,One-Punch Man,2015,16+,8.8,100%,1,1,0,0
+24,Outlander,2014,18+,8.4,91%,1,0,0,0
+25,House of Cards,2013,18+,8.7,78%,1,0,0,0
+26,Shameless,2011,18+,8.6,85%,1,0,0,0
+27,The Good Place,2016,16+,8.2,97%,1,1,0,0
+28,The Haunting,2018,18+,8.7,93%,1,0,0,0
+29,The Blacklist,2013,16+,8.0,91%,1,0,0,0
+30,The Flash,2014,7+,7.7,89%,1,0,0,0
+31,The Last Kingdom,2015,18+,8.4,91%,1,0,0,0
+32,Mad Men,2007,16+,8.6,94%,1,0,0,0
+33,Lucifer,2016,16+,8.2,87%,1,0,0,0
+34,Orange Is the New Black,2013,18+,8.1,90%,1,0,0,0
+35,Grey's Anatomy,2005,16+,7.6,83%,1,1,0,0
+36,The End of the F***ing World,2017,18+,8.1,93%,1,0,0,0
+37,Arrested Development,2003,16+,8.7,75%,1,1,0,0
+38,The Vampire Diaries,2009,7+,7.7,85%,1,0,0,0
+39,The Crown,2016,18+,8.7,89%,1,0,0,0
+40,The 100,2014,16+,7.7,92%,1,0,0,0
+41,When They See Us,2019,18+,8.9,96%,1,0,0,0
+42,How to Get Away with Murder,2014,16+,8.1,88%,1,1,0,0
+43,After Life,2019,18+,8.5,70%,1,0,0,0
+44,Elite,2018,18+,7.6,97%,1,0,0,0
+45,BoJack Horseman,2014,18+,8.7,93%,1,0,0,0
+46,Never Have I Ever,2020,16+,8.0,97%,1,0,0,0
+47,Penny Dreadful,2014,18+,8.2,91%,1,0,0,0
+48,Marvel's Agents of S.H.I.E.L.D.,2013,16+,7.5,94%,1,0,0,0
+49,Dead to Me,2019,18+,8.1,91%,1,0,0,0
+50,Unorthodox,2020,18+,8.1,94%,1,0,0,0
+51,Sense8,2015,18+,8.3,86%,1,0,0,0
+52,Sacred Games,2018,18+,8.7,92%,1,0,0,0
+53,American Crime Story,2016,18+,8.4,93%,1,0,0,0
+54,Family Guy,1999,18+,8.1,71%,1,1,0,0
+55,Pretty Little Liars,2010,16+,7.4,81%,1,1,0,0
+56,Unbelievable,2019,18+,8.4,97%,1,0,0,0
+57,Arrow,2012,16+,7.6,85%,1,0,0,0
+58,The IT Crowd,2006,16+,8.5,87%,1,0,0,0
+59,The Twilight Zone,1959,7+,9.0,82%,1,1,0,0
+60,YOU,2018,18+,7.8,91%,1,0,0,0
+61,Sex Education,2019,16+,8.3,94%,1,0,0,0
+62,"Tiger King: Murder, Mayhem and Madness",2020,18+,7.8,86%,1,0,0,0
+63,Star Trek: The Next Generation,1987,7+,8.6,89%,1,1,1,0
+64,Broadchurch,2013,18+,8.4,92%,1,0,0,0
+65,Kingdom,2019,18+,8.4,96%,1,0,0,0
+66,Altered Carbon,2018,18+,8.1,64%,1,0,0,0
+67,The Sinner,2017,16+,8.0,95%,1,0,0,0
+68,"Love, Death & Robots",2019,18+,8.5,78%,1,0,0,0
+69,Marvel's Jessica Jones,2015,18+,8.0,83%,1,0,0,0
+70,New Girl,2011,16+,7.7,94%,1,0,0,0
+71,The Good Wife,2009,16+,8.3,94%,1,1,1,0
+72,The Umbrella Academy,2019,16+,7.9,77%,1,0,0,0
+73,Marvel's The Punisher,2017,18+,8.5,63%,1,0,0,0
+74,Ash vs Evil Dead,2015,18+,8.4,99%,1,0,0,0
+75,Master of None,2015,18+,8.3,100%,1,0,0,0
+76,Bodyguard,2018,18+,8.1,93%,1,0,0,0
+77,Schitt's Creek,2015,16+,8.4,50%,1,0,1,0
+78,Narcos: Mexico,2018,18+,8.4,88%,1,0,0,0
+79,The West Wing,1999,16+,8.8,75%,1,0,0,0
+80,Bates Motel,2013,18+,8.2,93%,1,0,0,0
+81,Atypical,2017,18+,8.3,87%,1,0,0,0
+82,Once Upon a Time,2011,7+,7.7,80%,1,0,0,0
+83,Gomorrah,2014,18+,8.7,94%,1,0,0,0
+84,Making a Murderer,2015,16+,8.6,84%,1,0,0,0
+85,Death Note,2006,18+,9.0,,1,1,0,0
+86,Castlevania,2017,18+,8.2,93%,1,0,0,0
+87,Riverdale,2017,16+,7.0,86%,1,0,0,0
+88,Burn Notice,2007,7+,7.9,88%,1,1,1,0
+89,Fauda,2015,16+,8.3,100%,1,0,0,0
+90,Russian Doll,2019,18+,7.9,96%,1,0,0,0
+91,Our Planet,2019,7+,9.3,93%,1,0,0,0
+92,Big Mouth,2017,18+,8.0,100%,1,0,0,0
+93,American Horror Story,2011,18+,8.0,,1,1,1,0
+94,Gotham,2014,16+,7.8,77%,1,0,0,0
+95,I Am Not Okay with This,2020,18+,7.6,85%,1,0,0,0
+96,Criminal Minds,2005,16+,8.1,,1,0,0,0
+97,The Vietnam War,2017,18+,9.1,98%,1,0,0,0
+98,Waco,2018,18+,7.9,68%,1,0,0,0
+99,Star Trek,1966,7+,8.3,80%,1,1,1,0
+100,The OA,2016,16+,7.9,84%,1,0,0,0
+101,Outer Banks,2020,18+,7.6,72%,1,0,0,0
+102,The Midnight Gospel,2020,18+,8.4,90%,1,0,0,0
+103,Good Girls,2018,16+,7.9,87%,1,1,0,0
+104,Chilling Adventures of Sabrina,2018,16+,7.6,84%,1,0,0,0
+105,Doctor Foster,2015,16+,7.7,85%,1,0,0,0
+106,Gilmore Girls,2000,16+,8.1,85%,1,0,0,0
+107,iZombie,2015,16+,7.9,91%,1,0,0,0
+108,Anne with an E,2017,7+,8.6,62%,1,0,0,0
+109,A Series of Unfortunate Events,2017,7+,7.8,96%,1,0,0,0
+110,Neon Genesis Evangelion,1995,16+,8.5,100%,1,0,0,0
+111,Into the Badlands,2015,16+,8.0,83%,1,0,0,0
+112,Monty Python's Flying Circus,1969,16+,8.8,100%,1,0,0,0
+113,Jane the Virgin,2014,7+,7.8,100%,1,0,0,0
+114,Halt and Catch Fire,2014,16+,8.4,90%,1,0,0,0
+115,Grace and Frankie,2015,7+,8.3,89%,1,0,0,0
+116,NCIS,2003,16+,7.8,40%,1,0,0,0
+117,Weeds,2005,18+,7.9,70%,1,0,0,0
+118,GLOW,2017,18+,8.0,93%,1,0,0,0
+119,Person of Interest,2011,16+,8.4,,1,0,0,0
+120,13 Reasons Why,2017,18+,7.8,39%,1,0,0,0
+121,Godless,2017,16+,8.3,85%,1,0,0,0
+122,Locked Up,2015,16+,8.3,100%,1,0,0,0
+123,Mushi-Shi,2005,16+,8.5,100%,1,1,1,0
+124,Gossip Girl,2008,16+,7.4,84%,1,0,0,0
+125,Unbreakable Kimmy Schmidt,2015,16+,7.6,96%,1,0,0,0
+126,Lost in Space,2018,7+,7.3,75%,1,0,0,0
+127,Scandal,2012,16+,7.7,93%,1,0,0,0
+128,Hunter x Hunter,2011,16+,8.9,,1,1,0,0
+129,One Day at a Time,2017,7+,8.2,99%,1,0,0,0
+130,DC's Legends of Tomorrow,2016,16+,6.8,87%,1,0,0,0
+131,Manhunt,2017,16+,8.1,93%,1,0,0,0
+132,Naruto,2002,7+,8.3,,1,1,0,0
+133,Charmed,1998,16+,7.1,75%,1,0,0,0
+134,The Dragon Prince,2018,7+,8.4,100%,1,0,0,0
+135,Locke & Key,2020,16+,7.4,67%,1,0,0,0
+136,Alias Grace,2017,18+,7.8,99%,1,0,0,0
+137,American Vandal,2017,16+,8.2,97%,1,0,0,0
+138,Santa Clarita Diet,2017,18+,7.8,89%,1,0,0,0
+139,Maniac,2018,16+,7.8,85%,1,0,0,0
+140,Star Trek: Deep Space Nine,1993,7+,7.9,90%,1,1,1,0
+141,The Dark Crystal: Age of Resistance,2019,7+,8.5,87%,1,0,0,0
+142,Colony,2016,16+,7.4,92%,1,0,0,0
+143,Wild Wild Country,2018,16+,8.2,98%,1,0,0,0
+144,Rectify,2013,16+,8.3,95%,1,0,0,0
+145,Pose,2018,16+,8.6,96%,1,0,0,0
+146,Marvel's Luke Cage,2016,18+,7.3,87%,1,0,0,0
+147,Hollywood,2020,18+,7.7,57%,1,0,0,0
+148,Derry Girls,2018,16+,8.4,97%,1,0,0,0
+149,Dark Matter,2015,18+,7.5,89%,1,0,0,0
+150,On My Block,2018,16+,8.1,97%,1,0,0,0
+151,Law & Order: Special Victims Unit,1999,16+,8.0,,1,1,1,0
+152,Longmire,2012,16+,8.3,88%,1,0,0,0
+153,The Tudors,2007,18+,8.1,69%,1,0,0,0
+154,HAPPY!,2017,18+,8.2,84%,1,0,0,0
+155,The Stranger,2020,16+,7.3,89%,1,0,0,0
+156,Call the Midwife,2012,7+,8.4,89%,1,0,0,0
+157,Into the Night,2020,18+,7.2,83%,1,0,0,0
+158,Mystery Science Theater 3000,1988,7+,8.5,80%,1,1,0,0
+159,Resurrection: Ertugrul,2014,16+,7.7,,1,0,0,0
+160,The Inbetweeners,2008,18+,8.4,54%,1,0,0,0
+161,Reign,2013,16+,7.5,86%,1,0,0,0
+162,Extras,2005,16+,8.3,89%,1,0,1,0
+163,The Kominsky Method,2018,18+,8.2,90%,1,0,0,0
+164,The 4400,2004,7+,7.3,95%,1,0,0,0
+165,The Borgias,2011,18+,7.9,85%,1,0,0,0
+166,Marco Polo,2014,18+,8.0,67%,1,0,0,0
+167,Queer Eye,2018,16+,8.5,91%,1,0,0,0
+168,The Spy,2019,18+,7.9,86%,1,0,0,0
+169,Love,2016,18+,7.7,94%,1,0,0,0
+170,Designated Survivor,2016,7+,7.5,71%,1,0,0,0
+171,Ripper Street,2012,18+,8.1,100%,1,0,0,0
+172,Feel Good,2020,,7.5,100%,1,0,0,0
+173,Hell on Wheels,2011,16+,8.3,72%,1,0,0,0
+174,The Fosters,2013,16+,7.9,97%,1,0,0,0
+175,Hawaii Five-0,2010,16+,7.3,82%,1,0,0,0
+176,Marvel's The Defenders,2017,18+,7.3,78%,1,0,0,0
+177,Allo 'Allo!,1984,7+,8.3,,1,0,0,0
+178,Supergirl,2015,7+,6.3,88%,1,0,0,0
+179,Star Trek: Voyager,1995,7+,7.8,77%,1,1,1,0
+180,Limitless,2015,16+,7.7,57%,1,0,0,0
+181,Messiah,2020,18+,7.7,44%,1,0,0,0
+182,The Shannara Chronicles,2016,16+,7.2,77%,1,0,0,0
+183,Crash Landing on You,2019,16+,8.8,,1,0,0,0
+184,Bleach,2004,18+,8.1,,1,1,0,0
+185,Top Boy,2011,18+,8.4,95%,1,0,0,0
+186,Jonathan Strange & Mr Norrell,2015,16+,8.2,91%,1,0,0,0
+187,Haven,2010,16+,7.5,63%,1,0,0,0
+188,Queen of the South,2016,16+,7.9,66%,1,0,0,0
+189,Delhi Crime,2019,,8.5,91%,1,0,0,0
+190,Hart of Dixie,2011,7+,7.7,81%,1,0,0,0
+191,Bloodline,2015,18+,8.0,62%,1,0,0,0
+192,Middleditch & Schwartz,2020,18+,8.7,100%,1,0,0,0
+193,Haikyu!!,2014,16+,8.7,,1,1,0,0
+194,Dirty Money,2018,16+,8.1,100%,1,0,0,0
+195,Don't F**k with Cats: Hunting an Internet Killer,2019,18+,8.1,67%,1,0,0,0
+196,Babylon Berlin,2017,18+,8.4,,1,0,0,0
+197,That '70s Show,1998,16+,8.1,,1,0,0,0
+198,The Magicians,2015,16+,7.6,,1,0,0,0
+199,Chef's Table,2015,all,8.6,100%,1,0,0,0
+200,TURN: Washington's Spies,2014,16+,8.1,81%,1,0,0,0
+201,Crazy Ex-Girlfriend,2015,16+,7.8,98%,1,0,0,0
+202,Soul Eater,2008,16+,7.8,100%,1,1,0,0
+203,Lost Girl,2010,16+,7.7,65%,1,0,0,0
+204,Wynonna Earp,2016,16+,7.4,93%,1,0,0,0
+205,Merlin,2008,7+,7.9,,1,1,1,0
+206,Galavant,2015,7+,8.1,89%,1,0,0,0
+207,Travelers,2016,16+,8.1,,1,0,0,0
+208,Hilda,2018,7+,8.6,100%,1,0,0,0
+209,The Originals,2013,16+,8.2,27%,1,0,0,0
+210,Episodes,2011,18+,7.8,80%,1,0,0,0
+211,Absolutely Fabulous,1992,16+,8.1,96%,1,1,0,0
+212,Living with Yourself,2019,18+,7.2,84%,1,0,0,0
+213,Malcolm in the Middle,2000,7+,8.0,,1,1,0,0
+214,F is for Family,2015,18+,8.0,86%,1,0,0,0
+215,The Keepers,2017,16+,8.1,96%,1,0,0,0
+216,Cheer,2020,16+,8.2,96%,1,0,0,0
+217,Disenchantment,2018,16+,7.2,68%,1,0,0,0
+218,Dead Set,2008,18+,7.7,90%,1,0,0,0
+219,Ezel,2009,all,8.6,,1,0,0,0
+220,Nurse Jackie,2009,18+,7.7,81%,1,0,0,0
+221,Case Closed,1996,16+,8.4,,1,1,0,0
+222,Imposters,2017,16+,7.8,100%,1,0,0,0
+223,Queer as Folk,1999,18+,8.2,100%,1,0,1,0
+224,Heartland,2007,7+,8.4,45%,1,0,1,0
+225,The Staircase,2005,16+,7.9,93%,1,0,0,0
+226,Madam Secretary,2014,16+,7.6,68%,1,0,0,0
+227,Chewing Gum,2015,16+,7.7,100%,1,0,0,0
+228,Glee,2009,16+,6.7,71%,1,0,0,0
+229,Fairy Tail,2009,16+,8.0,,1,1,0,0
+230,The Order,2019,18+,6.9,100%,1,0,0,0
+231,Legacies,2018,16+,7.5,,1,0,0,0
+232,North & South,2004,7+,8.6,,1,0,0,0
+233,Helix,2014,16+,6.8,81%,1,0,0,0
+234,Safe,2018,18+,7.3,77%,1,0,0,0
+235,Evil Genius,2018,18+,7.6,80%,1,0,0,0
+236,Marvel's Iron Fist,2017,18+,6.5,37%,1,0,0,0
+237,Lilyhammer,2012,18+,8.0,65%,1,0,0,0
+238,Voltron: Legendary Defender,2016,7+,8.1,100%,1,0,0,0
+239,Blue Mountain State,2010,18+,8.3,,1,0,0,0
+240,Pokémon,1997,7+,7.5,,1,1,1,0
+241,Cheers,1982,7+,7.8,,1,1,1,0
+242,Marianne,2019,18+,7.5,93%,1,0,0,0
+243,Star Trek: Enterprise,2001,7+,7.5,50%,1,1,1,0
+244,Portlandia,2011,16+,7.8,94%,1,0,0,0
+245,Better Than Us,2018,,7.4,100%,1,0,0,0
+246,Five Came Back,2017,16+,8.3,97%,1,0,0,0
+247,American Crime,2015,16+,7.8,97%,1,0,0,0
+248,Skins,2007,18+,8.2,,1,0,0,0
+249,Glitch,2015,16+,7.4,80%,1,0,0,0
+250,GHOUL,2018,18+,7.1,83%,1,0,0,0
+251,JoJo's Bizarre Adventure,2012,18+,8.4,,1,1,0,0
+252,The Society,2019,18+,7.0,85%,1,0,0,0
+253,Code Geass: Lelouch of the Rebellion,2006,18+,8.6,,1,0,0,0
+254,Dracula,2020,18+,6.8,74%,1,0,0,0
+255,Quantico,2015,16+,6.7,82%,1,0,0,0
+256,The Innocence Files,2020,,8.0,100%,1,0,0,0
+257,Medici: Masters of Florence,2016,7+,7.9,,1,0,0,0
+258,She-Ra and the Princesses of Power,2018,all,7.3,97%,1,0,0,0
+259,Versailles,2015,16+,7.9,66%,1,0,0,0
+260,Rise of Empires: Ottoman,2020,18+,8.0,,1,0,0,0
+261,The Mechanism,2018,16+,8.4,80%,1,0,0,0
+262,Everything Sucks!,2018,16+,7.5,72%,1,0,0,0
+263,Raising Dion,2019,7+,7.2,82%,1,0,0,0
+264,All American,2018,16+,7.7,96%,1,0,0,0
+265,Fullmetal Alchemist,2003,16+,8.6,,1,0,0,0
+266,The Rain,2018,18+,6.3,82%,1,0,0,0
+267,ERASED,2016,16+,8.5,,1,1,0,0
+268,Nailed It!,2018,7+,7.4,98%,1,0,0,0
+269,Last Tango in Halifax,2012,16+,8.3,98%,1,0,0,0
+270,Star-Crossed,2014,16+,7.3,57%,1,0,0,0
+271,The Politician,2019,16+,7.5,57%,1,0,0,0
+272,Documentary Now!,2015,18+,8.1,94%,1,0,0,0
+273,Baby,2018,18+,6.8,80%,1,0,0,0
+274,Secret City,2016,16+,7.4,100%,1,0,0,0
+275,Abstract: The Art of Design,2017,16+,8.4,100%,1,0,0,0
+276,Shooter,2016,16+,7.5,44%,1,0,0,0
+277,Marcella,2016,18+,7.4,65%,1,0,0,0
+278,The Chef Show,2019,18+,8.2,100%,1,0,0,0
+279,Rurouni Kenshin,1996,16+,8.5,,1,1,1,0
+280,The Seven Deadly Sins,2014,16+,8.1,,1,0,0,0
+281,InuYasha,2000,16+,7.9,,1,1,0,0
+282,Yeh Meri Family,2018,,9.2,,1,0,0,0
+283,The Circle,2020,18+,7.5,80%,1,0,0,0
+284,The Devil Next Door,2019,18+,7.6,91%,1,0,0,0
+285,Flowers,2016,,8.2,100%,1,0,0,0
+286,Descendants of the Sun,2016,16+,8.4,,1,1,1,0
+287,The Hollow,2018,7+,7.2,100%,1,0,0,0
+288,Frontier,2016,18+,7.2,75%,1,0,0,0
+289,Your Lie in April,2014,7+,8.6,,1,1,0,0
+290,Ancient Aliens,2010,7+,7.3,,1,1,1,0
+291,Sword Art Online,2012,16+,7.6,,1,1,0,0
+292,Frequency,2016,7+,7.5,77%,1,0,0,0
+293,Wentworth,2013,18+,8.6,,1,0,0,0
+294,Beauty and the Beast,2012,16+,7.0,51%,1,0,1,0
+295,Cold Justice,2013,16+,7.9,80%,1,0,0,0
+296,Hyperdrive,2019,7+,8.1,100%,1,0,0,0
+297,Time: The Kalief Browder Story,2017,16+,8.5,100%,1,0,0,0
+298,The Toys That Made Us,2017,16+,8.1,100%,1,0,0,0
+299,Seven Seconds,2018,18+,7.7,77%,1,0,0,0
+300,Spinning Out,2020,18+,7.7,63%,1,0,0,0
+301,Killer Inside: The Mind of Aaron Hernandez,2020,18+,7.4,75%,1,0,0,0
+302,El internado,2007,7+,8.2,,1,0,0,0
+303,Frozen Planet,2011,all,9.0,,1,0,0,0
+304,London Spy,2015,18+,7.5,86%,1,0,0,0
+305,Parasyte -the maxim-,2014,18+,8.4,,1,1,0,0
+306,Containment,2016,16+,7.2,50%,1,0,0,0
+307,Black Lightning,2018,16+,6.1,95%,1,0,0,0
+308,Merlí,2015,16+,8.6,,1,0,0,0
+309,Derek,2013,16+,8.0,68%,1,0,0,0
+310,Last Chance U,2016,16+,8.5,93%,1,0,0,0
+311,Mars,2016,7+,7.5,61%,1,0,0,0
+312,Love is Blind,2020,7+,6.0,73%,1,0,0,0
+313,Love 101,2020,18+,7.7,,1,0,0,0
+314,3%,2016,7+,7.4,33%,1,0,0,0
+315,Zoo,2015,16+,6.8,82%,1,0,0,0
+316,Daybreak,2019,18+,6.7,70%,1,0,0,0
+317,Hemlock Grove,2013,18+,7.1,38%,1,0,0,0
+318,Trailer Park Boys,2001,18+,8.4,,1,0,0,0
+319,Private Practice,2007,16+,6.6,51%,1,1,0,0
+320,Ragnarok,2020,18+,7.5,,1,0,0,0
+321,Akame ga Kill!,2014,18+,7.9,,1,1,0,0
+322,Insatiable,2018,16+,6.6,11%,1,0,0,0
+323,No Tomorrow,2016,7+,7.2,88%,1,0,0,0
+324,The Ranch,2016,16+,7.5,,1,0,0,0
+325,Ramayan,1987,all,9.3,,1,0,0,0
+326,Surviving R. Kelly,2019,18+,7.6,95%,1,0,0,0
+327,Easy,2016,18+,6.9,90%,1,0,0,0
+328,Self Made: Inspired by the Life of Madam C.J. Walker,2020,16+,7.4,77%,1,0,0,0
+329,Knightfall,2017,16+,6.8,60%,1,0,0,0
+330,Kim's Convenience,2016,16+,8.1,,1,0,0,0
+331,Kengan Ashura,2019,,8.0,,1,0,0,0
+332,Spotless,2015,,7.9,100%,1,0,0,0
+333,Carmen Sandiego,2019,7+,7.9,93%,1,0,0,0
+334,Inside Bill's Brain: Decoding Bill Gates,2019,16+,8.0,50%,1,0,0,0
+335,Saint Seiya,1986,7+,8.4,,1,0,1,0
+336,Flint Town,2018,18+,8.0,95%,1,0,0,0
+337,Rake,2010,16+,8.6,100%,1,1,1,0
+338,Rilakkuma and Kaoru,2019,7+,8.4,100%,1,0,0,0
+339,Scooby-Doo! Mystery Incorporated,2010,7+,8.0,,1,0,0,0
+340,anohana: The Flower We Saw That Day,2011,16+,8.2,,1,0,0,0
+341,Africa,2013,all,9.0,,1,0,0,0
+342,The Frankenstein Chronicles,2015,16+,7.3,78%,1,0,0,0
+343,Meteor Garden,2018,16+,8.2,,1,0,0,0
+344,Wu Assassins,2019,18+,6.4,83%,1,0,0,0
+345,The Black Donnellys,2007,16+,8.1,40%,1,0,0,0
+346,H2O: Just Add Water,2006,all,7.2,,1,1,1,0
+347,Collateral,2018,7+,6.7,78%,1,0,0,0
+348,1983,2018,18+,6.8,100%,1,0,0,0
+349,November 13: Attack on Paris,2018,18+,8.3,100%,1,0,0,0
+350,Black Butler,2008,16+,7.8,,1,1,0,0
+351,Green Eggs and Ham,2019,,8.2,100%,1,0,0,0
+352,The Confession Tapes,2017,16+,7.5,100%,1,0,0,0
+353,Bad Blood,2017,18+,7.5,80%,1,0,0,0
+354,Formula 1: Drive to Survive,2019,16+,8.6,,1,0,0,0
+355,The Great British Bake Off,2010,7+,8.6,,1,0,0,0
+356,The Trials of Gabriel Fernandez,2020,18+,8.2,80%,1,0,0,0
+357,Ugly Delicious,2018,18+,7.8,100%,1,0,0,0
+358,The Night Shift,2014,16+,7.4,30%,1,0,0,0
+359,Impractical Jokers,2011,16+,8.5,,1,0,0,0
+360,The Andy Griffith Show,1960,all,8.3,,1,0,1,0
+361,Itaewon Class,2020,,8.2,,1,0,0,0
+362,Aquarius,2015,16+,7.1,77%,1,0,0,0
+363,Caliphate,2020,,8.2,,1,0,0,0
+364,Black Summer,2019,18+,6.4,75%,1,0,0,0
+365,Bonding,2019,16+,7.2,64%,1,0,0,0
+366,Miraculous: Tales of Ladybug & Cat Noir,2015,7+,7.8,,1,0,0,0
+367,Animaniacs,1993,all,7.9,,1,1,0,0
+368,When Calls the Heart,2014,all,8.2,,1,0,0,0
+369,Young & Hungry,2014,16+,7.4,60%,1,0,0,0
+370,Club de Cuervos,2015,18+,8.2,80%,1,0,0,0
+371,I'm Sorry,2017,7+,7.9,75%,1,0,0,0
+372,The Universe,2007,16+,8.8,,1,0,0,0
+373,The Chalet,2018,18+,7.0,100%,1,0,0,0
+374,My Next Guest Needs No Introduction With David Letterman,2018,18+,7.9,83%,1,0,0,0
+375,Still Game,2002,16+,8.9,,1,0,0,0
+376,NOVA,1974,7+,8.7,,1,0,1,0
+377,The Confession Killer,2019,16+,7.4,100%,1,0,0,0
+378,Father Brown,2013,7+,7.7,,1,0,0,0
+379,Bordertown,2016,7+,7.6,39%,1,0,0,0
+380,Battle Creek,2015,16+,7.3,96%,1,0,0,0
+381,Valhalla Murders,2019,18+,7.1,,1,0,0,0
+382,Scream: The TV Series,2015,16+,7.2,,1,0,0,0
+383,Special,2019,18+,7.6,95%,1,0,0,0
+384,CSI: Miami,2002,16+,6.4,,1,1,0,0
+385,3Below: Tales of Arcadia,2018,7+,7.8,100%,1,0,0,0
+386,Mystery Science Theater 3000: The Return,2017,16+,8.0,100%,1,0,0,0
+387,Dear White People,2017,16+,6.2,95%,1,0,0,0
+388,LEGO Ninjago: Masters of Spinjitzu,2012,all,6.8,,1,0,1,0
+389,The English Game,2020,,7.6,67%,1,0,0,0
+390,White Gold,2017,18+,7.4,88%,1,0,0,0
+391,Crazyhead,2016,,7.3,100%,1,0,0,0
+392,The Protector,2018,16+,6.9,,1,0,0,0
+393,Dirty John,2018,16+,7.1,71%,1,0,0,0
+394,Get Shorty,2017,18+,8.2,,1,0,0,0
+395,30 for 30,2009,7+,8.8,,1,0,0,0
+396,Bard of Blood,2019,,7.0,,1,0,0,0
+397,The Great Train Robbery,2013,,7.4,78%,1,0,0,0
+398,Devilman: Crybaby,2018,,7.6,80%,1,0,0,0
+399,Good Witch,2015,7+,7.3,,1,0,0,0
+400,It's Bruno!,2019,7+,7.5,100%,1,0,0,0
+401,Gurren Lagann,2007,16+,8.3,,1,0,0,0
+402,Gentefied,2020,16+,7.3,88%,1,0,0,0
+403,Victorious,2010,7+,6.9,,1,0,0,0
+404,Dynasty,2017,16+,7.3,,1,0,0,0
+405,The Curious Creations of Christine McConnell,2018,7+,7.7,100%,1,0,0,0
+406,El Chapo,2017,16+,7.8,,1,0,0,0
+407,Trinkets,2019,7+,7.1,50%,1,0,0,0
+408,The Get Down,2016,16+,8.3,,1,0,0,0
+409,Masum,2017,16+,8.5,,1,0,0,0
+410,My Little Pony: Friendship Is Magic,2010,7+,7.6,,1,1,0,0
+411,Fuller House,2016,7+,6.8,28%,1,0,0,0
+412,Kill la Kill,2013,18+,7.9,,1,0,0,0
+413,Dark Tourist,2018,18+,7.6,70%,1,0,0,0
+414,Shtisel,2013,,8.7,,1,0,0,0
+415,Great News,2017,7+,7.0,84%,1,0,0,0
+416,Ouran High School Host Club,2006,16+,8.2,,1,1,0,0
+417,Grand Hotel,2011,7+,8.4,,1,0,0,0
+418,The Curse of Oak Island,2014,7+,7.0,,1,1,0,0
+419,Workin' Moms,2017,18+,7.5,,1,0,0,0
+420,Z Nation,2014,18+,6.7,,1,0,0,0
+421,Losers,2019,,7.7,100%,1,0,0,0
+422,"Roswell, New Mexico",2019,16+,6.1,55%,1,0,0,0
+423,Comedians in Cars Getting Coffee,2012,16+,8.1,,1,0,0,0
+424,Conan,2010,16+,8.1,,1,0,0,0
+425,The Guild,2007,,8.2,,1,0,0,0
+426,Friends from College,2017,18+,6.8,24%,1,0,0,0
+427,Wormwood,2017,16+,7.0,92%,1,0,0,0
+428,Watership Down,2018,7+,7.2,77%,1,0,0,0
+429,Mr. Sunshine,2018,,8.8,,1,0,0,0
+430,Bitten,2014,16+,7.0,,1,0,0,0
+431,No Game No Life,2014,16+,7.9,,1,0,0,0
+432,Violet Evergarden,2018,16+,8.4,,1,0,0,0
+433,Clannad,2007,7+,7.9,,1,1,0,0
+434,Gypsy,2017,18+,6.9,38%,1,0,0,0
+435,Virgin River,2019,16+,7.5,,1,0,0,0
+436,Gilmore Girls: A Year in the Life,2016,16+,7.7,,1,0,0,0
+437,The Innocent Man,2018,18+,7.4,73%,1,0,0,0
+438,Tuca & Bertie,2019,16+,7.4,100%,1,0,0,0
+439,#blackAF,2020,18+,6.6,,1,0,0,0
+440,Lovesick,2014,18+,8.1,36%,1,0,0,0
+441,Mr. Iglesias,2019,16+,7.1,88%,1,0,0,0
+442,Hot Girls Wanted: Turned On,2017,18+,6.7,100%,1,0,0,0
+443,Borgia,2011,18+,7.8,,1,0,0,0
+444,Trollhunters: Tales of Arcadia,2016,7+,8.4,,1,0,0,0
+445,La Reina del Sur,2011,18+,8.1,,1,0,0,0
+446,We Bare Bears,2015,7+,7.9,,1,1,0,0
+447,Liv and Maddie,2013,all,6.3,,1,0,0,0
+448,In the Dark,2019,16+,7.3,,1,0,0,0
+449,The Gift,2019,,7.6,,1,0,0,0
+450,The Time in Between,2013,7+,8.4,,1,0,0,0
+451,Cleverman,2016,16+,6.4,86%,1,0,0,0
+452,"Pablo Escobar, The Drug Lord",2012,18+,8.5,,1,0,0,0
+453,The Pharmacist,2020,,7.8,,1,0,0,0
+454,Wet Hot American Summer: First Day of Camp,2015,16+,7.4,,1,0,0,0
+455,Vampire Knight,2008,16+,7.5,,1,1,0,0
+456,The Untamed,2019,7+,8.9,,1,0,0,0
+457,How to Sell Drugs Online (Fast),2019,,7.9,,1,0,0,0
+458,Taken,2017,16+,6.6,32%,1,1,0,0
+459,Transformers: Prime,2010,7+,7.8,,1,0,0,0
+460,Forensic Files,1996,16+,8.8,,1,1,1,0
+461,Paradise PD,2018,18+,7.0,40%,1,0,0,0
+462,The House of Flowers,2018,18+,7.7,,1,0,0,0
+463,Quicksand,2019,18+,7.5,,1,0,0,0
+464,Magnificent Century,2011,,6.6,,1,0,0,0
+465,The Messengers,2015,16+,6.5,47%,1,0,0,0
+466,Magi,2012,16+,7.9,,1,1,0,0
+467,Car Masters: Rust to Riches,2018,,8.9,,1,0,0,0
+468,Patriot Act with Hasan Minhaj,2018,18+,8.2,,1,0,0,0
+469,Damnation,2017,18+,7.7,64%,1,0,0,0
+470,Jericho,2006,16+,7.2,54%,1,0,0,0
+471,American Odyssey,2015,16+,7.3,54%,1,0,0,0
+472,Lab Rats,2012,7+,6.6,,1,0,0,1
+473,Little Things,2016,18+,8.3,,1,0,0,0
+474,From Dusk Till Dawn: The Series,2014,18+,6.9,,1,0,0,0
+475,Grand Designs,1999,7+,8.5,,1,0,0,0
+476,Explained,2018,16+,8.0,,1,0,0,0
+477,Rhythm + Flow,2019,18+,7.6,92%,1,0,0,0
+478,Carole & Tuesday,2019,7+,7.9,100%,1,0,0,0
+479,Teresa,2010,7+,7.7,,1,0,0,0
+480,The Innocents,2018,,6.3,81%,1,0,0,0
+481,Tabula Rasa,2017,18+,8.1,,1,0,0,0
+482,Seis Manos,2019,18+,7.3,100%,1,0,0,0
+483,The King: Eternal Monarch,2020,,8.5,,1,0,0,0
+484,Cable Girls,2017,16+,7.7,,1,0,0,0
+485,Lady Dynamite,2016,16+,7.4,97%,1,0,0,0
+486,Sunderland 'Til I Die,2018,18+,8.2,,1,0,0,0
+487,Oliver Stone's Untold History of the United States,2012,all,8.6,,1,0,0,0
+488,Toy Boy,2019,18+,6.5,,1,0,0,0
+489,Humsafar,2011,all,9.0,,1,0,0,0
+490,Crashing,2016,,7.7,,1,0,0,0
+491,Norsemen,2016,18+,7.8,,1,0,0,0
+492,AJ and the Queen,2020,,7.6,50%,1,0,0,0
+493,El marginal,2016,18+,8.2,,1,0,0,0
+494,Giri/Haji,2019,,7.9,100%,1,0,0,0
+495,Van Helsing,2016,16+,6.2,,1,0,0,0
+496,Hinterland,2013,,7.6,,1,0,0,0
+497,Crossing Lines,2013,16+,7.3,,1,0,0,0
+498,The Eddy,2020,18+,7.0,68%,1,0,0,0
+499,A.D. The Bible Continues,2015,16+,7.4,58%,1,0,0,0
+500,The Letter for the King,2020,7+,5.9,58%,1,0,0,0
+501,The Boat,2011,all,7.3,,1,0,0,0
+502,Is It Wrong to Try to Pick Up Girls in a Dungeon?,2015,16+,7.4,,1,1,0,0
+503,The Story of God with Morgan Freeman,2016,16+,7.9,,1,0,0,0
+504,Greenhouse Academy,2017,7+,7.0,,1,0,0,0
+505,Diagnosis,2019,18+,7.8,100%,1,0,0,0
+506,W/ Bob & David,2015,18+,7.4,89%,1,0,0,0
+507,Queen Sono,2020,18+,5.8,100%,1,0,0,0
+508,Rotten,2018,18+,7.1,86%,1,0,0,0
+509,Requiem,2018,18+,6.5,75%,1,0,0,0
+510,Aggretsuko,2018,16+,8.0,,1,0,0,0
